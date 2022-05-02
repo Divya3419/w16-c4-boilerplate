@@ -1,0 +1,9 @@
+export const GET_PRODUCTS_DATA="GET_PRODUCTS_DATA"
+
+export const SORT_PRODUCTS="SORT_PRODUCTS"
+
+export const FILTER_PRODUCTS="FILTER_PRODUCTS"
+
+export const ERROR_DATA="ERROR_DATA"
+
+export const REQ_DATA="REQ_DATA"
